@@ -1,5 +1,5 @@
 <RCC>
-    <qresource prefix="/">
+    <qresource prefix="/karunit_whatsapp">
         <file alias="WhatsApp">res/WhatsApp.png</file>
     </qresource>
 </RCC>

@@ -22,7 +22,7 @@ QString KU_WhatsApp_Plugin::license() const
 
 QIcon KU_WhatsApp_Plugin::icon() const
 {
-    return QIcon(":/WhatsApp");
+    return QIcon(":/karunit_whatsapp/WhatsApp");
 }
 
 bool KU_WhatsApp_Plugin::initialize()
