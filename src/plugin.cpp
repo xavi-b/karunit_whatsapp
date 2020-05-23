@@ -50,6 +50,11 @@ QWidget* KU_WhatsApp_Plugin::createSettingsWidget()
     return new QLabel("WhatsApp");
 }
 
+QWidget* KU_WhatsApp_Plugin::createAboutWidget()
+{
+    return nullptr;
+}
+
 bool KU_WhatsApp_Plugin::loadSettings()
 {
     return true;
